@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2022-ra-45-props-films/static/css/main.56509908.css",
+    "main.js": "/2022-ra-45-props-films/static/js/main.cca6a019.js",
+    "static/js/787.95470256.chunk.js": "/2022-ra-45-props-films/static/js/787.95470256.chunk.js",
+    "index.html": "/2022-ra-45-props-films/index.html",
+    "main.56509908.css.map": "/2022-ra-45-props-films/static/css/main.56509908.css.map",
+    "main.cca6a019.js.map": "/2022-ra-45-props-films/static/js/main.cca6a019.js.map",
+    "787.95470256.chunk.js.map": "/2022-ra-45-props-films/static/js/787.95470256.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56509908.css",
+    "static/js/main.cca6a019.js"
+  ]
+}
